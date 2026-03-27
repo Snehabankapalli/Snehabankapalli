@@ -10,13 +10,19 @@ I design and build production-grade data systems that process millions of events
 
 ---
 
-## Featured Projects
+## Featured Systems
 
-| | Project | What It Does | Scale |
-|---|---------|-------------|-------|
-| 🔥 | [real-time-fintech-pipeline-kafka-spark-snowflake](https://github.com/Snehabankapalli/real-time-fintech-pipeline-kafka-spark-snowflake) | Kafka → PySpark → Snowflake streaming pipeline. Sub-second latency, CFPB-compliant reporting, dead-letter queues, PII tokenization. | 1M+ events/day · 99.9% SLA |
-| 📊 | [real-time-analytics-platform-kafka-spark-airflow-snowflake](https://github.com/Snehabankapalli/real-time-analytics-platform-kafka-spark-airflow-snowflake) | Lambda architecture: streaming + batch. HIPAA-compliant, 20+ source systems, dbt quality framework. | 10TB/month · 50M+ records |
-| 🤖 | [ai-sql-agent-for-data-analytics-automation](https://github.com/Snehabankapalli/ai-sql-agent-for-data-analytics-automation) | AI agent using Claude API to diagnose pipeline failures, generate SQL fixes, and send Slack alerts — MTTR from hours to 60 seconds. | Airflow + Glue + Snowflake |
+**Real-Time Fintech Pipeline**<br>
+Kafka → Spark → Snowflake system processing 100M+ daily financial events<br>
+[View Project](https://github.com/Snehabankapalli/real-time-fintech-data-pipeline-kafka-spark-snowflake)
+
+**Real-Time Analytics Platform**<br>
+Streaming + batch architecture for low-latency dashboards and business insights<br>
+[View Project](https://github.com/Snehabankapalli/real-time-analytics-platform-kafka-spark-airflow-snowflake)
+
+**AI Data Quality Agent**<br>
+LLM-powered system for SQL automation, anomaly detection, and data validation<br>
+[View Project](https://github.com/Snehabankapalli/ai-data-quality-agent-llm-data-validation-automation)
 
 ---
 
