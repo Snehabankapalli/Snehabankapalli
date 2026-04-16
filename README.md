@@ -18,11 +18,39 @@ Kafka → Spark → Snowflake system processing 100M+ daily financial events<br>
 
 **Real-Time Analytics Platform**<br>
 Streaming + batch architecture for low-latency dashboards and business insights<br>
-[View Project](https://github.com/Snehabankapalli/real-time-analytics-platform-kafka-spark-airflow-snowflake)
+[View Project](https://github.com/Snehabankapalli/real-time-analytics-platform)
 
 **AI Data Quality Agent**<br>
 LLM-powered system for SQL automation, anomaly detection, and data validation<br>
-[View Project](https://github.com/Snehabankapalli/ai-data-quality-agent-llm-data-validation-automation)
+[View Project](https://github.com/Snehabankapalli/ai-data-quality-agent)
+
+**Data Engineering Observability Platform**<br>
+FastAPI + React monitoring for dbt and Snowflake, with Claude AI co-pilot<br>
+[View Project](https://github.com/Snehabankapalli/data-engineering-observability-platform)
+
+---
+
+## All Projects
+
+### Streaming and Orchestration
+- [real-time-fintech-pipeline-kafka-spark-snowflake](https://github.com/Snehabankapalli/real-time-fintech-pipeline-kafka-spark-snowflake) — 1M+ events/day, fraud ML scoring, CFPB reporting
+- [real-time-analytics-platform](https://github.com/Snehabankapalli/real-time-analytics-platform) — HIPAA healthcare lake on AWS Lambda
+- [fintech-data-platform](https://github.com/Snehabankapalli/fintech-data-platform) — Production dbt + Snowflake models for card data
+
+### AI / GenAI Data Tools
+- [ai-data-quality-agent](https://github.com/Snehabankapalli/ai-data-quality-agent) — LLM-driven validation across Snowflake, BigQuery, Redshift
+- [genai-de-portfolio](https://github.com/Snehabankapalli/genai-de-portfolio) — Real-time RAG pipeline with Kafka + Pinecone + observability
+- [pipeline-memory-agent](https://github.com/Snehabankapalli/pipeline-memory-agent) — Claude agent with persistent memory and self-healing logic
+- [ai-sql-agent-for-data-analytics-automation](https://github.com/Snehabankapalli/ai-sql-agent-for-data-analytics-automation) — NL to SQL with automated reporting
+- [job-hunter](https://github.com/Snehabankapalli/job-hunter) — 5-agent AI job search pipeline, 86 tests, 90% coverage
+
+### Platform and Observability
+- [data-engineering-observability-platform](https://github.com/Snehabankapalli/data-engineering-observability-platform) — Full-stack dbt + Snowflake monitoring with Claude co-pilot
+- [hipaa-data-lake-aws](https://github.com/Snehabankapalli/hipaa-data-lake-aws) — Encrypted storage, audit logging, PHI handling
+
+### Developer Tools
+- [SnowPulse](https://github.com/Snehabankapalli/SnowPulse) — Snowflake terminal status bar for Claude Code + shell
+- [data-engineering-claude-skills](https://github.com/Snehabankapalli/data-engineering-claude-skills) — 9 Claude Code slash commands for data engineers
 
 ---
 
