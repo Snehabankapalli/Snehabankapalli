@@ -14,7 +14,7 @@ I design and build production-grade data systems that process millions of events
 
 **Real-Time Fintech Pipeline**<br>
 Kafka → Spark → Snowflake system processing 100M+ daily financial events<br>
-[View Project](https://github.com/Snehabankapalli/real-time-fintech-data-pipeline-kafka-spark-snowflake)
+[View Project](https://github.com/Snehabankapalli/real-time-fintech-pipeline-kafka-spark-snowflake)
 
 **Real-Time Analytics Platform**<br>
 Streaming + batch architecture for low-latency dashboards and business insights<br>
